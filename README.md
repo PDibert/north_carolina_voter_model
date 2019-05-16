@@ -6,13 +6,9 @@ Using the North Carolina voter file (voter history and demographics), can we use
 
 ---
 
-### Project Files
+### Project Notes
 
-Here is the workflow order to follow when running through the notebooks:
-
-- [text](link)
-- [text](link)
-- [text](link)
+This repo does NOT include all of the datasets needed to run the process outlined in the Jupyter notebooks.  Due to the large size of the data files, anyone reading this will need to read the notes in 1_load_data.ipynb to locate data and create an environment that is capable of running the processes.  It is not advised to run these scripts on a local machine.
 
 ---
 
